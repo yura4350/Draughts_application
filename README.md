@@ -50,7 +50,6 @@ This project is a fully-featured Draughts (Checkers) application developed as pa
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: You may need to create a `requirements.txt` file listing the dependencies).*
 
 3.  **Run the main script:**
     ```bash
