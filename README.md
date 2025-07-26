@@ -48,7 +48,8 @@ This project is a fully-featured Draughts (Checkers) application developed as pa
 
 2.  **Install dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install pygame
+    pip install python-telegram-bot
     ```
 
 3.  **Run the main script:**
