@@ -42,8 +42,8 @@ This project is a fully-featured Draughts (Checkers) application developed as pa
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone [<repository-url>](https://github.com/yura4350/Draughts_application)
+    cd Draughts_application
     ```
 
 2.  **Install dependencies:**
