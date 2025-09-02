@@ -1,6 +1,6 @@
-# Draughts (Checkers) Game - IB Computer Science HL Internal Assessment
+# Draughts (Checkers) Game
 
-This project is a fully-featured Draughts (Checkers) application developed as part of the IB Computer Science HL Internal Assessment. It includes a graphical user interface, local Player vs. Player (PvP) and Player vs. AI (PvE) modes, a database for storing game and user data, and a Telegram bot for notifications and interactions.
+This project is a fully-featured Draughts (Checkers) application, that includes a graphical user interface, local Player vs. Player (PvP) and Player vs. AI (PvE) modes, a database for storing game and user data, and a Telegram bot for notifications and interactions.
 
 ## Features
 
